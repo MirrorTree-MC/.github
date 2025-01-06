@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to MirrorTree
+
+Hi, why not wander around for a while? You may find more treats in the [wiki](https://wiki.mirror.bearcabbage.top/) site.
 
 <!--
 
